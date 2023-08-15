@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "IDAL": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "IDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IDAL.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "IDAL/1.0.0": {
+      "type": "project",
+      "path": "../IDAL/IDAL.csproj",
+      "msbuildProject": "../IDAL/IDAL.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DAL >= 1.0.0",
+      "Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Reyxtar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\Practico 1\\Practico 1.csproj",
+      "projectName": "Practico 1",
+      "projectPath": "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\Practico 1\\Practico 1.csproj",
+      "packagesPath": "C:\\Users\\Reyxtar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\Practico 1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Reyxtar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\Reyxtar\\source\\repos\\Practico 1\\Shared\\Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

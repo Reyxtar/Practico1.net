@@ -1,0 +1,15 @@
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\bin\Debug\net7.0\IDAL.deps.json
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\bin\Debug\net7.0\IDAL.dll
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\bin\Debug\net7.0\IDAL.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\bin\Debug\net7.0\Shared.dll
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\bin\Debug\net7.0\Shared.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.csproj.AssemblyReference.cache
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.AssemblyInfoInputs.cache
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.AssemblyInfo.cs
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.csproj.CopyComplete
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.dll
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\refint\IDAL.dll
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\IDAL.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\IDAL\obj\Debug\net7.0\ref\IDAL.dll

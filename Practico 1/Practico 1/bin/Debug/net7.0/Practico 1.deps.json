@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Practico 1/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "runtime": {
+          "Practico 1.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "IDAL": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "IDAL/1.0.0": {
+        "dependencies": {
+          "Shared": "1.0.0"
+        },
+        "runtime": {
+          "IDAL.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practico 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

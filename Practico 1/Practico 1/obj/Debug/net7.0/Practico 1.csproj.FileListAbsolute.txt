@@ -1,0 +1,22 @@
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Practico 1.exe
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Practico 1.deps.json
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Practico 1.runtimeconfig.json
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Practico 1.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Practico 1.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.AssemblyInfoInputs.cache
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.AssemblyInfo.cs
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\refint\Practico 1.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.genruntimeconfig.cache
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\ref\Practico 1.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\DAL.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\IDAL.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Shared.dll
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\DAL.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\Shared.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\bin\Debug\net7.0\IDAL.pdb
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.csproj.AssemblyReference.cache
+C:\Users\Reyxtar\source\repos\Practico 1\Practico 1\obj\Debug\net7.0\Practico 1.csproj.CopyComplete

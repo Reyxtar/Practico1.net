@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DAL/1.0.0": {
+        "dependencies": {
+          "IDAL": "1.0.0",
+          "Shared": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "IDAL/1.0.0": {
+        "dependencies": {
+          "Shared": "1.0.0"
+        },
+        "runtime": {
+          "IDAL.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
